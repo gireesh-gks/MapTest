@@ -1,2 +1,2 @@
 # MapTest
-Marker movement in swift
+Marker movement in swift using google map
